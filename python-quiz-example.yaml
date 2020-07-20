@@ -1,0 +1,56 @@
+title: "Python Basic Principles"
+version: 1.0
+author:
+    username: mpurham76
+tags: ["python", "basic", "principles"]
+difficulty: "this could be string or number I guess"
+
+options:
+    shuffle: True
+
+questions:
+    -
+        id: 1 
+        prompt: How can we generate random numbers in python using methods?
+        type: "MCQ" #[MULTIPLE CHOICE (MCQ), TRUEFALSE(TFQ), MULTIPLE ANSWER (MAQ)]
+        choices:
+            -
+                id: "A"
+                answer: "random.uniform()"
+            -
+                id: "B"
+                answer: "random.randint()"
+            -
+                id: "C"
+                answer: "random.random()"    
+            -
+                id: "D"
+                answer: "All of the above"
+
+        correct-choice-id: "B"
+
+        -
+            id: 2 
+            prompt: How can we generate random numbers in python using methods?
+            type: "MCQ" #[MULTIPLE CHOICE (MCQ), TRUEFALSE(TFQ), MULTIPLE ANSWER (MAQ)]
+            choices:
+                -
+                    id: "A"
+                    answer: "random.uniform()"
+                -
+                    id: "B"
+                    answer: "random.randint()"
+                -
+                    id: "C"
+                    answer: "random.random()"    
+                -
+                    id: "D"
+                    answer: "All of the above"
+    
+            correct-choice-id: "B"       
+
+            
+    
+
+        
+
